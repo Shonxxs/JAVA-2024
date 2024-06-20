@@ -1,3 +1,4 @@
+package Semana2;
 public class TablaDeColore {
     public static void main(String[] args) {
         System.out.println("┌────────┬───────────┬───────┬─────────────────┐");
