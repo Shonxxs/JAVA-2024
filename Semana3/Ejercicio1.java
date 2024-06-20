@@ -19,5 +19,6 @@ public class Ejercicio1 {
        System.out.println("Resta de x - y: "+resta);
        System.out.println("Division de x / y: "+division);
        System.out.println("Multiplicacion de x * y: "+multiplicacion);
+        
     }
 }
