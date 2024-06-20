@@ -10,7 +10,7 @@ public class Ejercicio1 {
        
        int suma = x + y;
        int resta = x + y;
-       int division = x / y; //
+       double division = (double) x / y; //
        int multiplicacion = x * y;
 
        System.out.println("Valor de x: "+x);
