@@ -3,7 +3,7 @@ package Semana3;
 public class Ejercicio4 {
     public static void main(String[] args) {
        
-        double cantidadSoles = 325.0;
+        int cantidadSoles = 325;
 
        
         double tipoCambio = 3.83;
