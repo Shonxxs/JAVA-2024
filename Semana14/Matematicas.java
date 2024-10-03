@@ -25,5 +25,4 @@ public class Matematicas {
     public static double areaRectangulo (double largo, double ancho){
         return largo * ancho;
     }
-
 }
